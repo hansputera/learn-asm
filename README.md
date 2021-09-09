@@ -1,2 +1,2 @@
-# learn-asm
-Belajar bahasa Assembly
+# Learn ASM
+Belajar bahasa assembly dari hal hal yang paling sederhana.
